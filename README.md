@@ -11,13 +11,6 @@ clone the repo
 https://github.com/pclaure/Dbteste.git
 ```
 
-
-Then cd into the folder with this command-
-
-```
-cd Laravel-vue-todolist
-```
-
 Then do a composer install
 
 ```
